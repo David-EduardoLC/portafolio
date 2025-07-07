@@ -90,3 +90,9 @@ Desarrollado por **David Eduardo López Cruz**, estudiante del 8° semestre de I
 
 ---
 
+## 🌐 GitHub Pages
+
+Este proyecto puede visualizarse desde GitHub Pages:  
+https://david-eduardolc.github.io/portafolio/
+
+---
