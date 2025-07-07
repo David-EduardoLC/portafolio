@@ -67,10 +67,20 @@ Este sitio también sirve como carta de presentación digital para proyectos esc
 ## 🖼️ Capturas del sitio
 
 (Sustituye las imágenes con capturas reales si las agregas al repositorio)
+Inicio
+![image](https://github.com/user-attachments/assets/ffa375ec-2644-4220-b1a1-339f32e906ea)
+Sobre mí
+![image](https://github.com/user-attachments/assets/da7b1f1b-4334-4481-b181-14381dd73109)
+Resumen 
+![image](https://github.com/user-attachments/assets/5b7837f1-1549-4f74-a609-66d80f30ae53)
+Portafolio
+![image](https://github.com/user-attachments/assets/5cc3065c-a000-4531-bb93-b43de746edd0)
+Servicios
+![image](https://github.com/user-attachments/assets/848cb622-3e29-44b9-bb79-b92dc13a4ccc)
+Contacto
+![image](https://github.com/user-attachments/assets/e26fe424-bb26-4d1f-ab39-b394e54646ef)
 
-![Inicio](https://github.com/user-attachments/assets/portada.png)
-![Sobre Mí](https://github.com/user-attachments/assets/sobremi.png)
-![Proyectos](https://github.com/user-attachments/assets/portafolio.png)
+
 
 ---
 
