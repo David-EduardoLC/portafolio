@@ -86,7 +86,9 @@ Contacto
 
 ## 👨‍🎓 Créditos
 Plantilla utilizada: MyResume - Bootstrap Resume and Portfolio Template
+
 Donde se puede descargar: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+
 Desarrollado por **David Eduardo López Cruz**, estudiante del 8° semestre de Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Oaxaca.
 
 ---
